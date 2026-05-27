@@ -30,3 +30,21 @@ Beyond being a workflow engine, one of the major strengths of Nextflow is its ri
 These pipelines (for example, RNA-seq, variant calling, or metagenomics workflows) are designed to work out of the box, with sensible default parameters, validated software environments, and consistent input/output structures. This significantly lowers the barrier for users who want to run complex analyses without designing an entire workflow from scratch.
 
 A key benefit is that nf-core pipelines expose a well-curated and documented set of parameters. Instead of tuning dozens of low-level tool options, users typically adjust only a small number of high-level parameters (such as reference genomes, read layout, or execution profiles), while the pipeline authors have already selected robust defaults and best-practice settings.
+
+---
+
+## **3. Reproducibility Best Practices**
+
+Workflow management systems are a key component of **reproducible research**, but they work best when combined with other practices:
+
+- **Version control:** Track your workflow definitions (Snakefiles, Nextflow scripts) in [Git](/general-knowledge/git). Tag releases when you publish results.
+- **Containers:** Use [Docker or Apptainer](/general-knowledge/containers) to freeze your software environment. This ensures the same tools and versions run on any system.
+- **Documentation:** Include a README explaining how to run your workflow, what inputs are required, and what outputs to expect.
+- **Parameterization:** Avoid hardcoding paths or values. Use configuration files or command-line parameters so others can adapt your workflow to their data.
+- **Provenance:** Many WMS automatically log which steps ran, with which parameters. Save these logs alongside your results.
+
+:::tip The Reproducibility Stack
+For fully reproducible analysis, combine: **Workflow manager** (Snakemake/Nextflow) + **Container** (Docker/Apptainer) + **Version control** (Git) + **Metadata** (README, config files). This ensures anyone can re-run your analysis and get the same results.
+:::
+
+**Further information:** [TUM Research Data Hub — Reproducible Research](https://web.tum.de/en/researchdata/support-information/data-analysis/)

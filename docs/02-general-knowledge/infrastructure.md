@@ -107,6 +107,8 @@ For questions about which infrastructure is right for your project:
 * **LRZ Services:** [LRZ Servicedesk](https://servicedesk.lrz.de/)
 * **Domain-specific guidance:** Check our [Domain-Specific Knowledge](/domain-knowledge/bioinformatics/bio-data-types) sections
 
+**Further information:** [TUM Research Data Hub — Storage & Infrastructure](https://web.tum.de/en/researchdata/support-information/store-manage-data/)
+
 ---
 
 **Note:** Infrastructure availability and access procedures may change. Always check the official websites for the most current information.

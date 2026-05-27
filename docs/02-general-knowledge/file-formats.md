@@ -43,3 +43,16 @@ Parquet is also fully self-describing with respect to schema (field names and ty
 Arrow IPC similarly embeds the schema but leaves semantic metadata to the application.
 NumPy's `.npy` format only records the array's dtype and shape,  there are no field names or any semantic context.
 Zarr stores its metadata in external JSON sidecar files rather than inside the data files themselves.
+
+## Archival considerations
+
+When selecting a file format for **long-term preservation**, consider these questions:
+
+- **Is the format widely used?** Formats with broad adoption are more likely to remain readable in the future.
+- **Is it open and license-free?** Open-source formats don't depend on proprietary software that may become unavailable.
+- **How complex is the format?** Simpler formats are easier to decode with future tools. When in doubt, simpler is better.
+- **Does compression cause data loss?** Lossy compression (e.g., JPEG for images) permanently discards information.
+
+For archiving, prefer **open, widely-adopted formats** such as CSV, PDF/A, TIFF, or domain-specific standards. The [LZV.NRW interactive overview](https://www.lzv.nrw/dateiformate/) allows you to search and filter file formats suitable for archiving.
+
+**Further information:** [TUM Research Data Hub — Archive Data](https://web.tum.de/en/researchdata/support-information/archive-data/)
