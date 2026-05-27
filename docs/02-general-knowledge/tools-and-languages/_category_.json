@@ -1,0 +1,9 @@
+{
+  "label": "Tools & Languages",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "/general-knowledge/tools",
+    "description": "Overview of programming languages, statistical software, data visualization tools, and documentation solutions available for research at TUM."
+  }
+}
