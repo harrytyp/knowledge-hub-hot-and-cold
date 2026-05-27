@@ -7,6 +7,16 @@ slug: /domain-knowledge/medical-clinical/introduction
 This page is currently under development. Content may be incomplete or contain inaccuracies. If you notice any errors or have suggestions, please [contact us](mailto:rdhub@mdsi.tum.de).
 :::
 
+:::tip Quick Start by Role
+
+**PhD students & Postdocs** — Start with [Data Types](/domain-knowledge/medical-clinical/data-types) and [Use Cases](/domain-knowledge/medical-clinical/use-cases/medical-image-analysis). **Important:** Consult your data protection officer before processing personal health data.
+
+**PIs & Group Leaders** — Review [Metadata Standards](/domain-knowledge/medical-clinical/metadata-standards) (DICOM, HL7 FHIR, CDISC) and [Repositories](/domain-knowledge/medical-clinical/repositories). See also [Data Management Plans](/general-knowledge/metadata#4-data-management-plans-dmps).
+
+**Data Stewards** — Key cross-references: [Repositories](/general-knowledge/repo), [Metadata](/general-knowledge/metadata), privacy regulations (GDPR, BDSG).
+
+:::
+
 # **What is Medical & Clinical Data Science?**
 
 Medical and clinical data science covers the collection, management, and analysis of health-related data — from medical images and electronic health records to clinical trial results and biosensor measurements. These data require special attention to privacy regulations, interoperability standards, and ethical considerations that distinguish them from most other research domains.

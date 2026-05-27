@@ -18,7 +18,7 @@ Sharing simulation data, models, and benchmarks is essential for reproducibility
 | Repository | Description | Link |
 |------------|-------------|------|
 | **Zenodo** | General-purpose research data repository (CERN), widely used for simulation datasets and benchmarks | [zenodo.org](https://zenodo.org/) |
-| **DaRUS (TU Munich)** | TUM's institutional data repository based on Dataverse | [darus.uni-stuttgart.de](https://darus.uni-stuttgart.de/) |
+| **mediaTUM** | TUM's institutional media and publication server for research data | [mediatum.ub.tum.de](https://mediatum.ub.tum.de/) |
 | **Fordatis (FIZ Karlsruhe)** | Research data repository for engineering and natural sciences | [fordatis.fraunhofer.de](https://fordatis.fraunhofer.de/) |
 
 ---
@@ -49,4 +49,3 @@ Sharing simulation data, models, and benchmarks is essential for reproducibility
 | Platform | Description | Link |
 |----------|-------------|------|
 | **SimTech Data** | Data platform from the Stuttgart Cluster of Excellence on simulation technology | [simtech.uni-stuttgart.de](https://www.simtech.uni-stuttgart.de/) |
-| **TurBase** | Database for turbomachinery experimental and simulation data | [turbase.cineca.it](http://turbase.cineca.it/) |

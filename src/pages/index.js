@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Description will go into a meta tag in <head />">
+      description="The TUM Data Knowledge Hub provides guidance on research data management, tools, and best practices for researchers at the Technical University of Munich.">
       <HomepageHeader />
       <main>
         <div className="container padding-vert--xl">
