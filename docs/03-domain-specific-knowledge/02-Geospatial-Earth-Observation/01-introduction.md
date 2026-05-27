@@ -7,6 +7,16 @@ slug: /domain-knowledge/geospatial/introduction
 This page is currently under development. Content may be incomplete or contain inaccuracies. If you notice any errors or have suggestions, please [contact us](mailto:rdhub@mdsi.tum.de).
 :::
 
+:::tip Quick Start by Role
+
+**PhD students & Postdocs** — Start with [Data Types](/domain-knowledge/geospatial/data-types) and [Use Cases](/domain-knowledge/geospatial/use-cases/land-cover-classification). For cloud platforms, see [Terrabyte](https://www.lrz.de/services/compute/linux-cluster/terrabyte/) and [Infrastructure](/general-knowledge/infrastructure).
+
+**PIs & Group Leaders** — Review [Metadata Standards](/domain-knowledge/geospatial/metadata-standards) (ISO 19115, INSPIRE) and [Repositories](/domain-knowledge/geospatial/repositories). See also [Data Management Plans](/general-knowledge/metadata#4-data-management-plans-dmps).
+
+**Data Stewards** — Key cross-references: [File Formats](/general-knowledge/file-formats), [Repositories](/general-knowledge/repo), [Infrastructure](/general-knowledge/infrastructure).
+
+:::
+
 # **What is Geospatial & Earth Observation Data Science?**
 
 Geospatial data science deals with data that has a spatial component — information tied to locations on the Earth's surface. Earth observation (EO) extends this by leveraging satellite, airborne, and ground-based sensors to systematically monitor the planet. Together, these fields combine geography, remote sensing, computer science, and statistics to extract knowledge from spatially referenced datasets.

@@ -7,6 +7,16 @@ slug: /domain-knowledge/chemistry-materials/introduction
 This page is currently under development. Content may be incomplete or contain inaccuracies. If you notice any errors or have suggestions, please [contact us](mailto:rdhub@mdsi.tum.de).
 :::
 
+:::tip Quick Start by Role
+
+**PhD students & Postdocs** — Start with [Data Types](/domain-knowledge/chemistry-materials/data-types) and [Use Cases](/domain-knowledge/chemistry-materials/use-cases/molecular-simulation). For HPC simulations, see [Infrastructure](/general-knowledge/infrastructure) and [Containers](/general-knowledge/containers).
+
+**PIs & Group Leaders** — Review [Metadata Standards](/domain-knowledge/chemistry-materials/metadata-standards) (CIF, NeXus) and [Repositories](/domain-knowledge/chemistry-materials/repositories). See also [Data Management Plans](/general-knowledge/metadata#4-data-management-plans-dmps).
+
+**Data Stewards** — Key cross-references: [File Formats](/general-knowledge/file-formats), [Repositories](/general-knowledge/repo), [Workflow Managers](/general-knowledge/wms).
+
+:::
+
 # **What is Chemistry & Materials Data Science?**
 
 Chemistry and materials science generate highly diverse data — from molecular structures and spectroscopic measurements to materials properties and simulation trajectories. Data science in these fields focuses on organizing, sharing, and computationally analyzing this information to accelerate discovery of new molecules, materials, and processes.
@@ -46,7 +56,7 @@ These fields face specific data management challenges:
 - **PyMOL / VMD** — Molecular visualization
 
 ### **Electronic Lab Notebooks**
-- **eLabFTW** — Open-source ELN recommended by TUM
+- **eLabFTW** — Open-source electronic lab notebook, available @TUM
 - **Chemotion** — ELN specifically designed for chemistry with integrated repository
 
 ## **Infrastructure and Support**

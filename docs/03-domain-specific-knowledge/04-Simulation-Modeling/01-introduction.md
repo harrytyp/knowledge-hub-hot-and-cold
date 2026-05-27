@@ -7,6 +7,16 @@ slug: /domain-knowledge/simulation-modeling/introduction
 This page is currently under development. Content may be incomplete or contain inaccuracies. If you notice any errors or have suggestions, please [contact us](mailto:rdhub@mdsi.tum.de).
 :::
 
+:::tip Quick Start by Role
+
+**PhD students & Postdocs** — Start with [Data Types](/domain-knowledge/simulation-modeling/data-types) and [Use Cases](/domain-knowledge/simulation-modeling/use-cases/cfd-simulation). For HPC access, see [Infrastructure](/general-knowledge/infrastructure) and [Containers](/general-knowledge/containers).
+
+**PIs & Group Leaders** — Review [Metadata Standards](/domain-knowledge/simulation-modeling/metadata-standards) and [Repositories](/domain-knowledge/simulation-modeling/repositories). See also [Data Management Plans](/general-knowledge/metadata#4-data-management-plans-dmps).
+
+**Data Stewards** — Key cross-references: [File Formats](/general-knowledge/file-formats), [Repositories](/general-knowledge/repo), [Infrastructure](/general-knowledge/infrastructure).
+
+:::
+
 # **What is Simulation & Modeling Data Science?**
 
 Simulation and modeling encompass the use of mathematical models and numerical methods to predict the behavior of physical systems. From fluid dynamics and structural mechanics to multiphysics coupling and optimization, these approaches generate vast amounts of data that require careful management, storage, and analysis strategies.

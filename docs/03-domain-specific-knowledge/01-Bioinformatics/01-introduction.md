@@ -3,6 +3,16 @@ title: Introduction to Bioinformatics
 slug: /domain-knowledge/bioinformatics/introduction
 ---
 
+:::tip Quick Start by Role
+
+**PhD students & Postdocs** — Start with [Data Types](/domain-knowledge/bioinformatics/bio-data-types) and [Use Cases](/domain-knowledge/bioinformatics/use-cases/reference-based-analysis). For reproducibility, see [Workflow Managers](/general-knowledge/wms) and [Containers](/general-knowledge/containers).
+
+**PIs & Group Leaders** — Review [Metadata standards](/domain-knowledge/bioinformatics/bio-metadata-ontologies) for FAIR compliance and [Repositories](/domain-knowledge/bioinformatics/bio-repo) for data sharing requirements. See also [Data Management Plans](/general-knowledge/metadata#4-data-management-plans-dmps).
+
+**Data Stewards** — Use the full navigation below. Key cross-references: [File Formats](/general-knowledge/file-formats), [Git](/general-knowledge/git), [Infrastructure](/general-knowledge/infrastructure).
+
+:::
+
 # **What is Bioinformatics?**
 
 Bioinformatics is an interdisciplinary field that combines biology, computer science, mathematics, and statistics to analyze and interpret biological data. At its core, bioinformatics develops methods and software tools to understand complex biological systems, particularly at the molecular level.
@@ -173,7 +183,7 @@ If you're new to bioinformatics at TUM:
 
 ## **Collaboration Opportunities**
 
-Many TUM bioinformatics groups welcome collaborations. If you have biological data requiring computational analysis or are developing new methods, reach out to relevant research groups or contact the **Munich Data Science Institute (MDSI)** for matchmaking.
+Many TUM bioinformatics groups welcome collaborations. If you have biological data requiring computational analysis or are developing new methods, reach out to any relevant research groups.
 
 ---
 
