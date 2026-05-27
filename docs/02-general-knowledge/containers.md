@@ -26,14 +26,14 @@ The most popular container platform; the de facto standard for development and c
 - Best for: local development, cloud deployment, CI/CD pipelines
 
 ### **Enroot**
-[Enroot](https://doku.lrz.de/enroot-10746586.html) is NVIDIA's container runtime designed for HPC environments with GPU workloads.
+[Enroot](https://doku.lrz.de/4-enroot-2750921686.html) is NVIDIA's container runtime designed for HPC environments with GPU workloads.
 - Lightweight, unprivileged container solution
 - Native GPU support for deep learning and CUDA applications
 - Can import Docker and Singularity images
 - **Available on LRZ systems for GPU-accelerated workloads**
 
 ### **Singularity / Apptainer**
-[Apptainer](https://doku.lrz.de/apptainer-10746245.html) (formerly Singularity) is designed specifically for HPC and scientific computing.
+[Apptainer](https://doku.lrz.de/apptainer-singularity-at-lrz-400558542.html) (formerly Singularity) is designed specifically for HPC and scientific computing.
 - Runs without root privileges
 - Directly executes on HPC job schedulers (SLURM)
 - Can convert Docker images to Apptainer format
