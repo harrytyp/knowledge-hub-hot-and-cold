@@ -61,6 +61,7 @@ const COLD_NODES = [
   [929.5, 918.5, 'generic', 'left'],
   [873.5, 751.5, 'publication', 'left'],
   [213.5, 440.5, 'kriterienkatalog', 'right'],
+  [214, 762, 'publication', 'right'],
   [589.5, 1086.5, 'archival', 'left'],
   [647.5, 1162.5, 'isar-cloud', 'left'],
   [647.5, 1219.5, 'ds-archive', 'left'],
