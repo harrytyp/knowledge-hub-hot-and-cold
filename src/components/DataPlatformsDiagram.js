@@ -55,11 +55,10 @@ const HOT_NODES = [
 ];
 
 const COLD_NODES = [
-  [935.5, 322.5, 'repository', 'left'],
   [929.5, 803.5, 'disciplinary', 'left'],
   [929.5, 862.5, 'institutional', 'left'],
   [929.5, 918.5, 'generic', 'left'],
-  [873.5, 751.5, 'publication', 'left'],
+  [873.5, 751.5, 'repository', 'left'],
   [213.5, 440.5, 'kriterienkatalog', 'right'],
   [214, 762, 'publication', 'right'],
   [589.5, 1086.5, 'archival', 'left'],
