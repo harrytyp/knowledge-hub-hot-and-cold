@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://tum-research-data-hub.github.io',
+  url: 'https://harrytyp.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/knowledge-hub/',
+  baseUrl: '/knowledge-hub-hot-and-cold/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'tum-research-data-hub', // Usually your GitHub org/user name.
-  projectName: 'knowledge-hub', // Usually your repo name.
+  organizationName: 'harrytyp', // Usually your GitHub org/user name.
+  projectName: 'knowledge-hub-hot-and-cold', // Usually your repo name.
   deploymentBranch: 'gh-pages', // Explicitly tells Docusaurus which branch to push the build to
   trailingSlash: false,  // Helps with URL consistency on GitHub Pages
 
@@ -71,7 +71,7 @@ themes: [
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tum-research-data-hub/knowledge-hub/tree/main/',
+            'https://github.com/harrytyp/knowledge-hub-hot-and-cold/tree/main/',
         },
         blog: false,
         theme: {
@@ -103,7 +103,7 @@ themes: [
             label: 'Knowledge Hub',
           },
           {
-            href: 'https://github.com/tum-research-data-hub/knowledge-hub',
+            href: 'https://github.com/harrytyp/knowledge-hub-hot-and-cold',
             label: 'GitHub',
             position: 'right',
           },
